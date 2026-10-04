@@ -18,8 +18,8 @@ Ballots and eligibility records are stored in Reddit's Devvit platform storage a
 ## 3. What is sent outside Reddit
 The app sends election results to a public GitHub repository, [REPO URL], using the GitHub API at `api.github.com`. This is the only external service it contacts.
 
-- **While an election is open:** aggregate tallies only (vote totals per candidate or option).
-- **After an election closes:** final results and, where an election publishes them, an anonymized ballot-level file. Ballot files contain ballot numbers and rankings or scores. They contain no usernames or VoterIDs.
+- **While an election is open:** aggregate tallies only (vote totals per candidate or option per (randomly assigned) voter group).
+- **After an election closes:** final results and, where an election publishes them, an anonymized ballot-level file. Ballot files contain per-ballot and rankings or scores plus voter group. They contain no usernames or VoterIDs.
 
 Published records are public and may be copied by anyone. Please read section 5 before voting.
 
