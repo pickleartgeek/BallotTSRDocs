@@ -12,6 +12,7 @@ BallotTSR runs polls and elections for r/thespinroom. The Web Portal publishes t
 - You may vote only if you meet the eligibility rules set for that election.
 - One person, one ballot. Do not use alternate accounts, bots, vote trading for payment, or any method to cast votes you are not entitled to.
 - Do not interfere with the app, test it for weaknesses outside a sanctioned test, or attempt to learn how another person voted.
+- Per subreddit law, only accounts with 30 community Karma or more are elligible to vote.
 - Moderators and the Election Secretary may reject or remove ballots that break these rules.
 
 ## 3. Official results
