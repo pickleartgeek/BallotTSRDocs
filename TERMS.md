@@ -31,4 +31,4 @@ The app and portal are provided as is, without warranties of any kind. We do not
 We may change these terms, the app, or the portal at any time, and may end a person's access for breaking these terms. The date at the top shows the latest version.
 
 ## 8. Contact
-[Contact here](reddit.com/u/PickleArtGeek)
+[Contact here](https://www.reddit.com/u/PickleArtGeek)
