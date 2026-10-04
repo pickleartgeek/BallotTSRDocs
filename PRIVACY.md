@@ -3,7 +3,7 @@
 **BallotTSR and the Election Secretary Web Portal**
 Last updated: 4/10/2026
 
-BallotTSR is a Reddit app that runs polls and elections for r/thespinroom. The Election Secretary Web Portal is a public website that publishes official election records. This policy explains what data is used and where it goes. If anything here is unclear, [contact us](reddit.com/u/PickleArtGeek).
+BallotTSR is a Reddit app that runs polls and elections for r/thespinroom. The Election Secretary Web Portal is a public website that publishes official election records. This policy explains what data is used and where it goes. If anything here is unclear, [contact us](https://www.reddit.com/u/PickleArtGeek).
 
 ## 1. What the app processes
 - **Reddit username and eligibility data.** The app checks who may vote (for example account age, karma, or a voter ID where an election uses one) and prevents double voting.
